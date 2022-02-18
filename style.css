@@ -1,0 +1,141 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.header{
+    background-color: black;
+    display:flex;
+    padding: 20px 100px 20px 100px;
+}
+.nav a{
+    text-decoration: none;
+    color:white;
+    padding: 20px 20px 0px 20px;
+
+}
+.nav{
+    margin-left: 500px;
+    font-size: 20px;
+  
+}
+.header img{
+   width: 100px;
+   color: white;
+   margin-left: 40px;
+}
+.header a:hover{
+    color: #1DB954;
+}
+.container{
+    background-color: rgb(212, 194, 191);
+    color:#B41D6C;
+    text-align: center;
+    height: 450px;
+    padding-top: 100px;
+}
+.container a{
+    text-decoration: none;
+    color:white;
+    background-color: #B41D6C;
+    padding: 15px 30px 15px 30px;
+    border-radius: 50px;
+}
+.container h2{
+    font-size: 70px;
+}
+.container p{
+    margin-top: 50px;
+    font-size: small;
+}
+.container a:hover{
+background-color: black;
+border:solid 3px white;
+}
+.container2{
+    background-color:#3E9FB2;
+    color:white ;
+    text-align: center;
+    height: 420px;
+    padding-top: 100px;
+}
+.container2 a{
+    text-decoration: none;
+    color:white;
+    background-color: black;
+    padding: 15px 30px 15px 30px;
+    border-radius: 50px;
+}
+.container2 h2{
+    font-size: 60px;
+}
+.container2 p{
+    margin-top: 55px;
+    font-size: 25px;
+}
+.container2 a:hover{
+   font-size:large ;
+}
+.container3{
+    text-align: center;
+    padding: 80px 0px 100px 0px;
+}
+.container3 h2{
+    font-size: 50px;
+}
+.c3{
+    display:flex;
+    justify-content: space-evenly;
+    
+}
+.container3 img{
+    width: 83%;
+}
+.footer1{
+    background-color: black;
+    color: white;
+    padding: 20px;
+
+}
+.f1 a{
+    text-decoration: none;
+    color:white;
+}
+h5{
+    color: gray;
+}
+.footer1 img{
+    width:100px;
+margin-top: 20px;}
+.f1{
+    display:flex;
+    justify-content: space-around;
+}
+.f1 a:hover{
+    color: #1DB954 ;
+}
+.box1{
+    padding-top: 20px;
+    font-size: 20px;
+}
+.box1 a i{
+padding: 15px;
+margin:10px;
+background-color: #3b3a3a;
+border-radius: 60px;
+}
+.f2{
+    background-color: black;
+    color:gray;
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 100px 50px 100px ;
+    font-size: small;
+}
+.f2 a{
+    text-decoration: none;
+    color: gray;
+    padding: 10px;
+
+}
+.f2 a:hover{
+    color:#1DB954 ;
+}
